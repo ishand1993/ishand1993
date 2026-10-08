@@ -10,7 +10,7 @@ Red River College Polytechnic, Class of '22.
 - 🤖 Building with **Claude Code**: AI-assisted development, MCP integrations, and wiring tools like Trello and Clockify into my workflow
 
 ## Tech
-`JavaScript` · `TypeScript` · `Node.js` · `React` · `GraphQL` · `Python` · `SQL` · `Claude Code`
+`JavaScript` · `TypeScript` · `Node.js` · `React` · `GraphQL` · `Python` · `SQL` · `BigQuery` · `Cloud Run` · `Apps Script` · `Looker Studio` · `Claude Code`
 
 ## Get in touch
 📫 ishandogra45@outlook.com
